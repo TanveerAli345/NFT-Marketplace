@@ -13,7 +13,7 @@ Make sure you are in the source file.
 For truffle tests and console please consult the official Truffle documentaion for updates.
 
 Project team members:
-Lead: Tanveer Ali Tapya
-Drashti Bhasin
-Ravnish Singh Teeth
-Khushi Pradhan
+1. Lead: Tanveer Ali Tapya
+2. Drashti Bhasin
+3. Ravnish Singh Teeth
+4. Khushi Pradhan
